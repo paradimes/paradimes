@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Anas!
 - 🔭 I’m interested in all aspects of software.
 - 🌱 I’m currently learning about frontend web development and AI (GPT). 
-- 📫 Message me on LinkedIn to connect!
+- 📫 Message me on LinkedIn to connect! https://www.linkedin.com/in/anas-mohmand-2202b8172/
 
 <!--
 **paradimes/paradimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
