@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Anas!
-- 🔭 I’m interested in all aspects of software.
+- 🔭 I want to use software to help make the world a better place.
 - 🌱 I’m currently learning about frontend web development and AI (GPT). 
 - 📫 Message me on LinkedIn to connect! https://www.linkedin.com/in/anas-mohmand-2202b8172/
 
