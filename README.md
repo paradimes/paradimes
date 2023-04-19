@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Anas!
 - 🔭 I want to use software to help make the world a better place.
-- 🌱 I’m currently learning about web development and AI (GPT). 
+- 🌱 I’m currently learning about web development. 
 - 📫 Message me on LinkedIn to connect! https://www.linkedin.com/in/anas-mohmand-2202b8172/
 
 <!--
