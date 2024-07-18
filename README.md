@@ -1,7 +1,4 @@
-### Hi there 👋 I'm Anas!
-- 🔭 I want to use software to help make the world a better place.
-- 🌱 I’m currently learning about web development. 
-- 📫 Message me on Twitter/LinkedIn to connect.
+### Hi
 
 <!--
 **paradimes/paradimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
